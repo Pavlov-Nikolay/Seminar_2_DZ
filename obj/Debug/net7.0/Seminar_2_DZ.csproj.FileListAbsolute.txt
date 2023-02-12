@@ -1,0 +1,15 @@
+D:\GeekBrains\C#\Seminars\Seminar_2_DZ\bin\Debug\net7.0\Seminar_2_DZ.exe
+D:\GeekBrains\C#\Seminars\Seminar_2_DZ\bin\Debug\net7.0\Seminar_2_DZ.deps.json
+D:\GeekBrains\C#\Seminars\Seminar_2_DZ\bin\Debug\net7.0\Seminar_2_DZ.runtimeconfig.json
+D:\GeekBrains\C#\Seminars\Seminar_2_DZ\bin\Debug\net7.0\Seminar_2_DZ.dll
+D:\GeekBrains\C#\Seminars\Seminar_2_DZ\bin\Debug\net7.0\Seminar_2_DZ.pdb
+D:\GeekBrains\C#\Seminars\Seminar_2_DZ\obj\Debug\net7.0\Seminar_2_DZ.csproj.AssemblyReference.cache
+D:\GeekBrains\C#\Seminars\Seminar_2_DZ\obj\Debug\net7.0\Seminar_2_DZ.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\Seminars\Seminar_2_DZ\obj\Debug\net7.0\Seminar_2_DZ.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\Seminars\Seminar_2_DZ\obj\Debug\net7.0\Seminar_2_DZ.AssemblyInfo.cs
+D:\GeekBrains\C#\Seminars\Seminar_2_DZ\obj\Debug\net7.0\Seminar_2_DZ.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\Seminars\Seminar_2_DZ\obj\Debug\net7.0\Seminar_2_DZ.dll
+D:\GeekBrains\C#\Seminars\Seminar_2_DZ\obj\Debug\net7.0\refint\Seminar_2_DZ.dll
+D:\GeekBrains\C#\Seminars\Seminar_2_DZ\obj\Debug\net7.0\Seminar_2_DZ.pdb
+D:\GeekBrains\C#\Seminars\Seminar_2_DZ\obj\Debug\net7.0\Seminar_2_DZ.genruntimeconfig.cache
+D:\GeekBrains\C#\Seminars\Seminar_2_DZ\obj\Debug\net7.0\ref\Seminar_2_DZ.dll
